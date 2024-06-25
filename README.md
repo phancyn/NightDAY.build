@@ -1,4 +1,4 @@
 # NightDAY.build
 
 
-![nightday](https://github.com/nelivv/image/blob/main/banner_for_NightDay.png=250x250)
+<img src="https://github.com/nelivv/image/blob/main/banner_for_NightDay.png" width="200" height="200">
