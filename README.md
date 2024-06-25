@@ -9,5 +9,6 @@
 
                                                         Download
 # Preview
-<a href="https://github.com/nelivv/NightDAY.build/releases/tag/Preview">1.1.19</a>
+<a href="https://github.com/nelivv/NightDAY.build/releases/download/1.1.20/1.1.20.zip">1.1.20</a>
+<a href="https://github.com/nelivv/NightDAY.build/releases/download/1.1.19/1.1.19.zip">1.1.19</a>
 
