@@ -4,7 +4,7 @@
   <a href="#">
   </a>
   <p align="center">
-   <img width="100" height="100" src="https://github.com/phancyn/image/blob/main/logo-nightday.png" alt="Logo">
+   <img width="100" height="100" src="https://github.com/phancyn/image/blob/main/logo-nightday2.png" alt="Logo">
      <h1 align="center"><b>NightDay Download</b></h1>
         <p align="center">
       Star PLS!!!!"
