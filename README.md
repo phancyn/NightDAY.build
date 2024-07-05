@@ -9,10 +9,7 @@
         <p align="center">
       Star PLS!!!!"
     <br />
-    <a href="https://github.com/phancyn/NightDAY.build/releases/tag/installer"><strong>Install Windows »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/phancyn/NightDAY.build/releases/download/Android-1.2.10/NightDay.apk"><strong>Install Android »</strong></a>
+    <a href="https://phancyn.itch.io/nightday"><strong>Install on itch »</strong></a>
     <br />
   </p>
   </p>
