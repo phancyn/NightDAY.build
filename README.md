@@ -15,7 +15,8 @@
   </p>
   <p align="center">
 <img src="https://github.com/nelivv/image/blob/main/GameLauncher.png" width="250" height="350">
-    
+    <br />
+
 <p align="center">
   <a href="#">
   </a>
@@ -23,6 +24,7 @@
 <h1 align="center"><b1>Phancyn</b1></h1>
     <p align="center">
       <br />
+      <img src="https://github.com/phancyn/image/blob/main/Banner-For-Profile.png">
 <a href="https://boosty.to/phancyn">My boosty</a>
 <br />
 
