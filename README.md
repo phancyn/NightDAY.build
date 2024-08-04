@@ -11,6 +11,9 @@
     <br />
     <a href="https://phancyn.itch.io/nightday"><strong>Install on itch »</strong></a>
     <br />
+    <br />
+    <a href="https://play.google.com/store/apps/details?id=com.Phancyn.NightDay"><strong>Install in Play Market »</strong></a>
+    <br />
   </p>
   </p>
   <p align="center">
