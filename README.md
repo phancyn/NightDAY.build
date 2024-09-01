@@ -27,7 +27,6 @@
 <h1 align="center"><b1>Phancyn</b1></h1>
     <p align="center">
       <br />
-      <img src="https://github.com/phancyn/image/blob/main/Banner-For-Profile.png">
 <a href="https://boosty.to/phancyn">My boosty</a>
 <br />
 
